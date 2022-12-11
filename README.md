@@ -14,5 +14,5 @@ This is an open source project that allows to rewrite all the algorithm of seque
 <strong>it's easy no 😎</strong>
 
 ## Contributing 
-Feel free to make a PR or report an issue
-Oh, one more thing, please do not forget to put a description when you make your PR 
+-    Feel free to make a PR or report an issue
+-    Oh, one more thing, please do not forget to put a description when you make your PR 
