@@ -12,8 +12,8 @@ This is an open source project that allows to rewrite all the algorithm of seque
          -   write source code or write documentation
 
 #### name files in the project:  
--   source code:    <strong>nameAlgo.extention(lang prog)</strong> 
--   documentation:  <strong>nameAlgo.md</strong>
+-   source code:    <strong>nameAlgo.extention(ex: fifo.py)</strong> 
+-   documentation:  <strong>nameAlgo.md (fifo.md)</strong>
 <br>
 <strong>it's easy no 😎</strong>
 
