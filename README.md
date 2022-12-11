@@ -13,7 +13,7 @@ This is an open source project that allows to rewrite all the algorithm of seque
 
 #### name files in the project:  
 -   source code:    <strong>nameAlgo.extention(ex: fifo.py)</strong> 
--   documentation:  <strong>nameAlgo.md (fifo.md)</strong>
+-   documentation:  <strong>nameAlgo.md (ex: fifo.md)</strong>
 <br>
 <strong>it's easy no 😎</strong>
 
