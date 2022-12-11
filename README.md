@@ -3,7 +3,7 @@
 This is an open source project that allows to rewrite all the algorithm of sequencing processes of the operating system, with all programming languages.
 
 
-## Some Descriptions 
+## Descriptions
 #### projects Organization
  -   directory lang (ex: directory PYTHON)
      -   dir algorithme (dir LIFO in python)
